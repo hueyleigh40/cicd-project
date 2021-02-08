@@ -1,0 +1,8 @@
+127.0.0.1 - - [13/Jan/2021:14:48:49 +0000] "GET / HTTP/1.1" 200 284 http-bio-8080-exec-7 94
+127.0.0.1 - - [13/Jan/2021:14:48:49 +0000] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-7 3
+127.0.0.1 - - [13/Jan/2021:14:48:58 +0000] "POST /login.do HTTP/1.1" 200 86 http-bio-8080-exec-6 45
+127.0.0.1 - - [13/Jan/2021:17:20:01 +0000] "GET / HTTP/1.1" 200 284 http-bio-8080-exec-10 9
+127.0.0.1 - - [13/Jan/2021:17:20:01 +0000] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-10 2
+127.0.0.1 - - [13/Jan/2021:17:20:11 +0000] "POST /login.do HTTP/1.1" 200 86 http-bio-8080-exec-5 2
+127.0.0.1 - - [13/Jan/2021:17:20:21 +0000] "GET / HTTP/1.1" 200 284 http-bio-8080-exec-5 1
+127.0.0.1 - - [13/Jan/2021:17:20:21 +0000] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-5 1
